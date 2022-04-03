@@ -40,6 +40,9 @@ function hoistedVariable() {
   console.log(x);
   var x;
   // var y;
+  // var z ;
+  // hgjjg
+  // bkgjj
 }
 // end of hositing variable 
 
