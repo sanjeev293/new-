@@ -39,6 +39,7 @@ function hoistedVariable() {
   x = 33;
   console.log(x);
   var x;
+  // var y;
 }
 // end of hositing variable 
 
